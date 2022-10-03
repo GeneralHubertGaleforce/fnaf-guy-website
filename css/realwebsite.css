@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+    font-family: "Verdana";
+}
+
+h2 {
+    font-size: 50px;
+    color: green;
+    font-family: "Verdana";
+}
+
+p1 {
+    font-family: "Verdana";
+    font-size: 20px;
+    color:white;
+    stroke: black;
+}
+
+a {
+    color: white
+}
+
+h3 {
+    font-size: 50px;
+    color: greenyellow;
+    font-family: "Verdana";
+}
+
+h4 {
+    font-size: 50px;
+    color: Fuchsia;
+    font-family: "Verdana";
+}
+
+h5 {
+    font-size: 50px;
+    color: rgb(50, 183, 132);
+    font-family: "Verdana";
+}
+
+p5 {
+    font-size: 40px;
+    color: #2e1f9c;
+    font-family: "Verdana";
+}
