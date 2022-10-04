@@ -51,5 +51,12 @@ p5 {
 
 p6 {
     font-size: 40px;
+    color: aqua;
+    font-family: "Verdana";
+}
+
+p7 {
+    font-size: 40px;
+    color: white;
     font-family: "Verdana";
 }
